@@ -1,0 +1,11 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andrewogle/webtesting-i-challenge.git",
+  "author": "Andrew <andrewryanogle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.7.1"
+  }
+}
